@@ -12,7 +12,7 @@ function Certifications() {
       <div className="container-fluid">
         <div className="row jumbotron mt-3">
           <div className="col">
-            <h1 className="cHeader">Certifications</h1>
+            <h1 className="certHeader">Certifications</h1>
           </div>
         </div>
         <div className="row">
