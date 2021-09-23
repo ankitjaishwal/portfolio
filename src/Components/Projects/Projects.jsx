@@ -1,4 +1,4 @@
-import { Typography, Button } from "@material-ui/core";
+import { Typography } from "@material-ui/core";
 import React from "react";
 
 import Header from "../Header/Header";
@@ -41,6 +41,7 @@ function Projects() {
                   <br />
                 </Typography>
                 <a
+                  rel="noreferrer"
                   target="_blank"
                   href="https://ankitjaishwal.github.io/confusion"
                   class="btn btn-primary"
@@ -70,6 +71,7 @@ function Projects() {
                   <br />
                 </Typography>
                 <a
+                  rel="noreferrer"
                   target="_blank"
                   href="https://flaskvideo-downloader.herokuapp.com/"
                   class="btn btn-primary"
@@ -99,6 +101,7 @@ function Projects() {
                   <br />
                 </Typography>
                 <a
+                  rel="noreferrer"
                   target="_blank"
                   href="https://flaskvideo-downloader.herokuapp.com/"
                   class="btn btn-primary"
