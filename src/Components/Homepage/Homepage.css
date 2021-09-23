@@ -1,0 +1,18 @@
+.introductionRow {
+  margin: 80px auto 80px auto;
+}
+
+.intro {
+  color: #110a4a;
+}
+
+.imageRow {
+  background-color: #110a4a;
+  color: #fff;
+}
+
+#home {
+  background-color: #d9f8d975;
+  width: 100%;
+  min-height: 100vh;
+}

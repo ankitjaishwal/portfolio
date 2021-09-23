@@ -1,0 +1,28 @@
+.profileHeader {
+  color: #110a4a;
+}
+
+.pHeader {
+  color: #110a4a;
+  font-size: 70px;
+}
+
+.pIcons {
+  color: red;
+  font-size: 45px;
+}
+
+.hr {
+  color: red;
+  margin: 10px 10px;
+}
+
+.subHeader {
+  color: red;
+}
+
+#profile {
+  background-color: #d9f8d975;
+  width: 100%;
+  min-height: 100vh;
+}

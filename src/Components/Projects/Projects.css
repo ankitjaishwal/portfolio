@@ -1,0 +1,22 @@
+.pHeader {
+  color: #110a4a;
+  font-size: 70px;
+}
+
+#projects {
+  background-color: #d9f8d975;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.cTitle {
+  color: #110a4a;
+}
+
+.hr {
+  color: red;
+}
+
+.cardBorder {
+  border: solid red 2px;
+}
