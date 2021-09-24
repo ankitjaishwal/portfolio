@@ -20,7 +20,7 @@ function Projects() {
         </div>
         <div className="row">
           <div className="col-md-6 col-lg-4 mt-5 mb-3">
-            <div className="card cardBorder">
+            <div className="card" style={{ backgroundColor: "#d9f8d9" }}>
               <img
                 height="230"
                 className="card-img-top"

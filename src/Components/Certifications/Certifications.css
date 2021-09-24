@@ -18,7 +18,7 @@
 }
 
 .cardBorder {
-  border: solid red 2px;
+  background: #d9f8d9;
 }
 
 @media screen and (max-width: 480px) {

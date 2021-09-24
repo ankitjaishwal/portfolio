@@ -46,7 +46,7 @@ function Homepage() {
                       Currently pursuing Master of Computer Applications from
                       Pimpri Chinchwad College of Engineering, Pune.
                     </li>
-                    <li> Beside technologies, I'm sprited about Music.</li>
+                    <li> Besides technologies, I'm spirited about Music.</li>
                   </ul>
                 </Typography>
               </div>
