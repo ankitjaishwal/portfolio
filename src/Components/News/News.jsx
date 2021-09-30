@@ -4,8 +4,6 @@ import Header from "../Header/Header";
 import Startup from "../../assets/images/Startup.jpg";
 import CloudTech from "../../assets/images/CloudTech.jpg";
 
-import Marquee from "react-fast-marquee";
-
 import "./News.css";
 
 import { Typography } from "@material-ui/core";
@@ -23,12 +21,12 @@ function News() {
         <div className="row">
           <div className="row" id="news1">
             <div className="row mt-5 mb-3 px-5">
-              <Marquee className="marque">
+              <marquee className="marque">
                 <Typography variant="h4">
                   Job openings for these IT professionals surge 400%, highest
                   demand from Bengaluru
                 </Typography>
-              </Marquee>
+              </marquee>
             </div>
             <div className="row mt-3 px-5">
               <div className="col-12 col-md-5">
@@ -54,12 +52,12 @@ function News() {
 
           <div className="row my-3 px-5" id="news2">
             <div className="row">
-              <Marquee className="marque">
+              <marquee className="marque">
                 <Typography variant="h4">
                   Bengaluru saw highest demand for cloud tech developers in
                   August 2021
                 </Typography>
-              </Marquee>
+              </marquee>
             </div>
             <div className="row mt-3 px-5">
               <div className="col-12 col-md-7">
