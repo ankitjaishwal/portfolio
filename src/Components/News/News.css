@@ -17,9 +17,3 @@
   color: #110a4a;
   background: #d9f8d9;
 }
-
-@media screen and (max-width: 480px) {
-  .certHeader {
-    font-size: 50px;
-  }
-}
