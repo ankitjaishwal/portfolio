@@ -61,14 +61,6 @@ function Header() {
             </NavLink>
 
             <NavLink
-              to="/news"
-              activeClassName="active"
-              className="nav-item nav-link"
-            >
-              NEWS
-            </NavLink>
-
-            <NavLink
               exact
               to="/contact"
               activeClassName="active"

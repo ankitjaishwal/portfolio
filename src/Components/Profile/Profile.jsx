@@ -31,6 +31,12 @@ function Profile() {
                 <ul>
                   <li>
                     <Typography align="left" variant="body1">
+                      Associate Member of Technical Staff at Hexaview
+                      Technologies, Noida (Oct 2021 - Current)
+                    </Typography>
+                  </li>
+                  <li>
+                    <Typography align="left" variant="body1">
                       Software Engineering Intern at Pune management
                       Association, Pune (Jan 2021 - July 2021)
                     </Typography>
